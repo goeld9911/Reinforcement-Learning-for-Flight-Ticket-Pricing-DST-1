@@ -170,7 +170,7 @@ def run():
         # ----------------------------------End Implementation---------------------------------
         #for i in range(len(pred_2)):
             #st.write(f"{pred_2.iloc[i,0]}   **{pred_2.iloc[i,1]}** -----> **{pred_2.iloc[i,2]}** Optimal hour: {pred_2.iloc[i,4]} Price = **{round(pred_2.iloc[i,5],2)}**")
-
+    # changes to update in git.
     elif param_ascend == "High to Low":
         pred = pd.DataFrame(pred_final, columns=["Airline","Departure City","Arrival City","Optimal time","Price"])
         pred_2 = pred.sort_values(by="Price", ascending=False)
