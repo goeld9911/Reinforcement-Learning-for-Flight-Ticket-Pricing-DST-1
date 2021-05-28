@@ -222,8 +222,9 @@ st.sidebar.markdown("""
 st.sidebar.markdown("""
 [Reasearch Paper](https://drive.google.com/file/d/1lf7GRaAmg5lwJF3Ik7irdFncvgc64nzo/view?usp=sharing)""")
 st.sidebar.markdown("""
-[Tablue Report](https://public.tableau.com/app/profile/deepika.goel/viz/flights_data_analysis/Dashboard1)""")
-
+[Presentation](https://docs.google.com/presentation/d/15HfriKFJ5acUQJ1qqCTX2-4JDUT5InTOfC6PH3KF9EE/edit?usp=sharing)""")
+st.sidebar.markdown("""
+[Tableau Report](https://public.tableau.com/app/profile/deepika.goel/viz/flights_data_analysis/Dashboard1)""")
 st.sidebar.subheader("Presented by:")
 st.sidebar.write("1. Praneeth kumar Pinni")
 st.sidebar.write("2. Deepika Goel")
